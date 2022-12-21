@@ -6,4 +6,5 @@
 #Reset button resets the active game, Exit button returns to initial state.
 
 ##FOR PLAY:
+
 #Simply download the ONE_GAME_Windows_Executable.rar and extract. Run the ONE.exe and have fun.
